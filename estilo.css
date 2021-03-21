@@ -1,0 +1,29 @@
+.barradetexto {
+    font-size: 30px;
+    color: rgb(32, 8, 54);
+    background-color: rgb(15, 166, 236);
+    }
+
+.imagen {
+    width: 200px;
+    height: 300px;
+
+    }
+
+#MARQUEE-font-2 {
+    color:white;
+    font-size: 25px;
+    background-image: url(https://thumbs.gfycat.com/FrailTenseGroundbeetle-size_restricted.gif) ;
+    width: 800px;
+    height: 40px;
+    
+        }
+
+p {
+        font-family: 'Arial';
+        text-align: justify;
+        font-size: 14px;
+        color: black;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
